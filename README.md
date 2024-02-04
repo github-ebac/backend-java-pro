@@ -1,11 +1,11 @@
 ## API de memes
 
-Para inicar a aplicação, navegue ao diretório raiz e execute o comando Maven a seguir:
+Para iniciar a aplicação, navegue ao diretório raiz e execute o comando Maven a seguir:
 ```sh
 mvn spring-boot:run
 ```
 
-Para interagir com a aplicação através do comando Curl para POST e GET, você pode tentar os comandos abaixo:
+Para interagir através do comando Curl para os métodos POST e GET, você pode tentar os comandos abaixo:
 
 > [!IMPORTANT]
 > Existem vínculos entre as tabelas do banco de dados, por isso é preferível adicionar `memes` quando já existem `categorias` e `usuários`.
