@@ -66,6 +66,3 @@ Para interagir com a aplicação através do comando Curl para POST e GET, você
   http://localhost:8081/memelandia/usuarios
   -H 'Content-Type: application/json'
 ```
-  
- 
- 
